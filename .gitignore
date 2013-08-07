@@ -1,0 +1,6 @@
+/test/templates_c/vlayout/*
+!/test/templates_c/vlayout/g
+/logs/*
+!/logs/todel.txt.txt
+.svn/*
+.svn*
